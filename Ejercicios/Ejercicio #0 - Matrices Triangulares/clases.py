@@ -11,3 +11,6 @@ persona.imprimir()
 
 persona2 = Persona("Luis")
 persona2.imprimir()
+
+persona3 = Persona("Jose")
+persona3.imprimir()
