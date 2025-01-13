@@ -8,3 +8,6 @@ class Persona :
 
 persona = Persona("Marisol")
 persona.imprimir()
+
+persona2 = Persona("Luis")
+persona2.imprimir()
